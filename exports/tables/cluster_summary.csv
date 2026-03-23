@@ -1,0 +1,6 @@
+cluster_id,cluster_name,description,count,avg_score,avg_pct,avg_age_known,high_share,low_share,islay_share,top_features
+0,Classic Smoky-Sweet,Medium-bodied pours that balance smoke and sweetness.,38,74.05,40.71,11.11,35,3,0,"body_med, pal_sweet, nose_peat, fin_dry, pal_smoke, color_fgold"
+1,Sherried & Sweet,"Fruit-forward, sherried, smoother malts suited to gifting and premium browsing.",25,75.6,41.64,10.86,24,0,1,"pal_sweet, nose_sweet, body_med, body_smooth, nose_sherry, pal_dry"
+2,Light & Approachable,"Lighter, smoother entry points that help new customers trade up into single malts.",9,71.44,41.67,12.83,7,1,1,"body_light, pal_sweet, body_smooth, fin_dry, nose_light, nose_fruit"
+3,Herbal & Crisp,Leaner grassy-fruity whiskies for curious customers and rotating tasting flights.,19,76.11,40.63,11.5,16,2,1,"nose_grass, pal_sweet, body_firm, pal_grass, body_light, body_smooth"
+4,Maritime Peat,"Coastal, salty, peated bottles that create identity and tasting-event buzz.",18,80.33,41.66,10.82,7,6,5,"nose_sea, body_light, pal_sweet, pal_spice, body_med, nose_peat"

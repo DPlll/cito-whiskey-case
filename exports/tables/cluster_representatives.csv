@@ -1,0 +1,26 @@
+cluster_name,name,score,region,district,pct
+Classic Smoky-Sweet,Balvenie,85.0,HIGH,SPEY,40.0
+Classic Smoky-Sweet,Dallas Dhu,85.0,HIGH,SPEY,40.0
+Classic Smoky-Sweet,Linkwood,83.0,HIGH,SPEY,40.0
+Classic Smoky-Sweet,Littlemill,83.0,LOW,NORTHWEST,43.0
+Classic Smoky-Sweet,Mortlach,81.0,HIGH,SPEY,40.0
+Sherried & Sweet,Highland Park,90.0,HIGH,ORKNEY,40.0
+Sherried & Sweet,Macallan,87.0,HIGH,SPEY,40.0
+Sherried & Sweet,Glenfarclas,86.0,HIGH,SPEY,40.0
+Sherried & Sweet,Aberlour,83.0,HIGH,SPEY,43.0
+Sherried & Sweet,Edradour,81.0,HIGH,MIDLAND,40.0
+Light & Approachable,Balblair,76.0,HIGH,NORTH,40.0
+Light & Approachable,Bruichladdich,76.0,ISLAY,LOCH,40.0
+Light & Approachable,Knockando,76.0,HIGH,SPEY,43.0
+Light & Approachable,Glenfiddich,75.0,HIGH,SPEY,40.0
+Light & Approachable,Cardhu,72.0,HIGH,SPEY,40.0
+Herbal & Crisp,Cragganmore,90.0,HIGH,SPEY,40.0
+Herbal & Crisp,Auchentoshan,85.0,LOW,WEST,40.0
+Herbal & Crisp,Glenlivet,85.0,HIGH,SPEY,40.0
+Herbal & Crisp,Longmorn,85.0,HIGH,SPEY,40.0
+Herbal & Crisp,Strathisla,79.0,HIGH,SPEY,40.0
+Maritime Peat,Springbank-Longrow,90.0,LOW,CAMPBEL,46.0
+Maritime Peat,Talisker,90.0,HIGH,SKYE,45.8
+Maritime Peat,Lagavulin,89.0,ISLAY,SOUTH,43.0
+Maritime Peat,Springbank,88.0,LOW,CAMPBEL,46.0
+Maritime Peat,Laphroaig,86.0,ISLAY,SOUTH,43.0
